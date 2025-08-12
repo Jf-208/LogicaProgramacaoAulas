@@ -43,7 +43,7 @@ else:
 
 
 #Requisitos Mínimos 
-nome = input('Digite o seu nome:')
+nome = str(input('Digite o seu nome:'))
 idade = int(input('Digite sua idade aqui: '))
 altura = float(input('Digite sua altura:'))
 
@@ -52,7 +52,6 @@ if idade >= 12 and altura >= 1.2 :
     print(f'A entrada de {nome} está autorizada.')
 else: 
     print(f'A entrada de {nome} não está autorizada. ')
-
 
 #variaveis 
 nome = input("Digite o seu nome: ")
