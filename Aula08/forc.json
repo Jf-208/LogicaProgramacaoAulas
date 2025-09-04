@@ -1,0 +1,21 @@
+{
+  "Tema01": [
+    "python", "developer", "programação", "inteligencia artificial",
+    "algoritmo", "computador", "java", "linguagens de programação",
+    "software", "mouse", "teclado", "memoria", "notebook", "monitor",
+    "garoto de programa", "programador", "cooler", "disco", "gabinete", "garoto de programa"
+  ],
+  "Tema02": [
+    "lasanha", "feijoada", "sushi", "pizza", "hambúrguer", "tacos",
+    "estrogonofe", "moqueca", "cuscuz",
+    "churrasco", "risoto", "pastel", "coxinha", "empadão",
+    "yakisoba", "nhoque", "escondidinho",
+    "arroz carreteiro", "bobó de camarão", "tutu de feijão"
+  ],
+  "Tema03": [
+    "Leão", "Tigre", "Elefante", "Girafa", "Zebra", "Cavalo", "Cachorro",
+    "Gato", "Lobo", "Urso", "Coelho",
+    "Rato", "Macaco", "Panda", "Jacaré", "Cobra", "Águia",
+    "Papagaio", "Golfinho", "Tubarão"
+  ]
+}
